@@ -1,1 +1,4 @@
-# my_pomodoro![Screenshot 2022-05-21 233223](https://user-images.githubusercontent.com/28539005/169663468-8d273f10-60c6-40b8-9d31-6b55509d9079.png)
+# my_pomodoro!
+
+https://user-images.githubusercontent.com/28539005/169682362-8172059c-dbd5-4b24-a4cc-8aa2d751495f.mp4
+
